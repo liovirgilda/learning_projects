@@ -1,1 +1,1 @@
-### Python Essentials
+### Learning Projects
